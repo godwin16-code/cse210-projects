@@ -1,0 +1,3 @@
+25
+{"Type":"SimpleGoal","Name":"Sport","Description":"[X] Sport (football)","Raw":"SimpleGoal|Sport|football|10|True"}
+{"Type":"SimpleGoal","Name":"dance","Description":"[X] dance (music)","Raw":"SimpleGoal|dance|music|15|True"}
